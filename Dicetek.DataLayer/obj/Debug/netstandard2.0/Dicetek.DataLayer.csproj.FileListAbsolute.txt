@@ -1,0 +1,12 @@
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\bin\Debug\netstandard2.0\Dicetek.DataLayer.deps.json
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\bin\Debug\netstandard2.0\Dicetek.DataLayer.dll
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\bin\Debug\netstandard2.0\Dicetek.DataLayer.pdb
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\bin\Debug\netstandard2.0\Dicetek.DomainModels.dll
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\bin\Debug\netstandard2.0\Dicetek.DomainModels.pdb
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\obj\Debug\netstandard2.0\Dicetek.DataLayer.csprojAssemblyReference.cache
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\obj\Debug\netstandard2.0\Dicetek.DataLayer.AssemblyInfoInputs.cache
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\obj\Debug\netstandard2.0\Dicetek.DataLayer.AssemblyInfo.cs
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\obj\Debug\netstandard2.0\Dicetek.DataLayer.csproj.CoreCompileInputs.cache
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\obj\Debug\netstandard2.0\Dicetek.DataLayer.csproj.CopyComplete
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\obj\Debug\netstandard2.0\Dicetek.DataLayer.dll
+E:\Dicetek\DicetekSolution\Dicetek.DataLayer\obj\Debug\netstandard2.0\Dicetek.DataLayer.pdb

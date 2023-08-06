@@ -1,0 +1,16 @@
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\bin\Debug\netstandard2.0\Dicetek.RepositoryLayer.deps.json
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\bin\Debug\netstandard2.0\Dicetek.RepositoryLayer.dll
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\bin\Debug\netstandard2.0\Dicetek.RepositoryLayer.pdb
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\bin\Debug\netstandard2.0\Dicetek.DataLayer.dll
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\bin\Debug\netstandard2.0\Dicetek.DomainModels.dll
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\bin\Debug\netstandard2.0\Dicetek.RepositoryContracts.dll
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\bin\Debug\netstandard2.0\Dicetek.DataLayer.pdb
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\bin\Debug\netstandard2.0\Dicetek.DomainModels.pdb
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\bin\Debug\netstandard2.0\Dicetek.RepositoryContracts.pdb
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\obj\Debug\netstandard2.0\Dicetek.RepositoryLayer.csprojAssemblyReference.cache
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\obj\Debug\netstandard2.0\Dicetek.RepositoryLayer.AssemblyInfoInputs.cache
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\obj\Debug\netstandard2.0\Dicetek.RepositoryLayer.AssemblyInfo.cs
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\obj\Debug\netstandard2.0\Dicetek.RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\obj\Debug\netstandard2.0\Dicetek.RepositoryLayer.csproj.CopyComplete
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\obj\Debug\netstandard2.0\Dicetek.RepositoryLayer.dll
+E:\Dicetek\DicetekSolution\Dicetek.RepositoryLayer\obj\Debug\netstandard2.0\Dicetek.RepositoryLayer.pdb

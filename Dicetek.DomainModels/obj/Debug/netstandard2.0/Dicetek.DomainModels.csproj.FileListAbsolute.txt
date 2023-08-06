@@ -1,0 +1,9 @@
+E:\Dicetek\DicetekSolution\Dicetek.DomainModels\bin\Debug\netstandard2.0\Dicetek.DomainModels.deps.json
+E:\Dicetek\DicetekSolution\Dicetek.DomainModels\bin\Debug\netstandard2.0\Dicetek.DomainModels.dll
+E:\Dicetek\DicetekSolution\Dicetek.DomainModels\bin\Debug\netstandard2.0\Dicetek.DomainModels.pdb
+E:\Dicetek\DicetekSolution\Dicetek.DomainModels\obj\Debug\netstandard2.0\Dicetek.DomainModels.csprojAssemblyReference.cache
+E:\Dicetek\DicetekSolution\Dicetek.DomainModels\obj\Debug\netstandard2.0\Dicetek.DomainModels.AssemblyInfoInputs.cache
+E:\Dicetek\DicetekSolution\Dicetek.DomainModels\obj\Debug\netstandard2.0\Dicetek.DomainModels.AssemblyInfo.cs
+E:\Dicetek\DicetekSolution\Dicetek.DomainModels\obj\Debug\netstandard2.0\Dicetek.DomainModels.csproj.CoreCompileInputs.cache
+E:\Dicetek\DicetekSolution\Dicetek.DomainModels\obj\Debug\netstandard2.0\Dicetek.DomainModels.dll
+E:\Dicetek\DicetekSolution\Dicetek.DomainModels\obj\Debug\netstandard2.0\Dicetek.DomainModels.pdb
